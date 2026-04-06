@@ -10,7 +10,7 @@ I have always been interested in computers since I was a child. I like to resear
 * 💬 ask me about anything, i am happy to help;
 
 <a href="mailto:canigomofficial@gmail.com">
-  <img src="https://img.shields.io/badge/your.email@proton.me-D14836?style=flat-square&logo=protonmail&logoColor=white" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/canigomofficial@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"/>
 </a>
 
 <br/>
@@ -39,8 +39,8 @@ I have always been interested in computers since I was a child. I like to resear
 <br/>
 <br/>
 
-<a href="https://discord.com/users/YOUR_DISCORD_ID">
-  <img src="https://lanyard.cnrad.dev/api/YOUR_DISCORD_ID?theme=dark&bg=00000000" alt="Discord Presence"/>
+<a href="https://discord.com/users/1453118457976717343">
+  <img src="https://lanyard.cnrad.dev/api/1453118457976717343?theme=dark&bg=00000000" alt="Discord Presence"/>
 </a>
 
 <br/>
