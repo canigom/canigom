@@ -6,10 +6,10 @@ I am Can. People call me Cani, i am a student, I am always open to collaborating
 
 I have always been interested in computers since I was a child. I like to research and experiment.
 
-* 💼 any freelance work? do reach, Discord Adress: **@your_discord_username**
+* 💼 any freelance work? do reach, Discord Adress: **@.apexsolutions**
 * 💬 ask me about anything, i am happy to help;
 
-<a href="mailto:your.email@proton.me">
+<a href="mailto:canigomofficial@gmail.com">
   <img src="https://img.shields.io/badge/your.email@proton.me-D14836?style=flat-square&logo=protonmail&logoColor=white" alt="Email Badge"/>
 </a>
 
