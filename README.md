@@ -33,10 +33,6 @@ I have always been interested in computers since I was a child. I like to resear
 </p>
 
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
 <br/>
 
 <a href="https://discord.com/users/1453118457976717343">
