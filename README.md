@@ -31,17 +31,13 @@ I have always been interested in computers since I was a child. I like to resear
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
-
 <br/>
 <br/>
-
 <a href="https://discord.com/users/1453118457976717343">
   <img src="https://lanyard.cnrad.dev/api/1453118457976717343?theme=dark&bg=00000000" alt="Discord Presence"/>
 </a>
-
 <br/>
 <br/>
 
 # 🎉 Thanks for your visit, have a nice day!
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME)
