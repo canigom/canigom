@@ -6,7 +6,7 @@ I am Can. People call me Cani, i am a student, I am always open to collaborating
 
 I have always been interested in computers since I was a child. I like to research and experiment.
 
-* 💼 any freelance work? do reach, Discord Adress: **@.apexsolutions**
+* 💼 any freelance work? do reach, Discord Adress: **@cani200**
 * 💬 ask me about anything, i am happy to help;
 
 <a href="mailto:canigomofficial@gmail.com">
